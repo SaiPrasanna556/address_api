@@ -25,7 +25,7 @@
                             <input type="radio" name="address_type0" value="2"/>
                             <label>Work</label>
                             <br/><br/>
-                            <input required id="address_autocomplete0" type="text" class="form-control" name="address[]" placeholder="address">
+                            <input required  id="address_autocomplete0" type="text" class="form-control" name="address[]" placeholder="address">
                             <br/>
                             <br/>
                             <div class="dynamic_address_view1"></div>
